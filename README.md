@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Gürkan KURT</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<h3 align="left">I can code in Java at an advanced level and carry out DevOps operations.</h3>
 
 <p align="left">
   <a href="https://github.com/Deichor/Deichor">
@@ -109,6 +109,6 @@
 
 <!-- links -->
 
-[issues page]: https://github.com/MacroPower/MacroPower/issues "Deichor/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Gürkan KURT LinkedIn"
-[oyunzor]: https://github.com/MacroPower/homelab "Oyunzor"
+[issues page]: https://github.com/Deichor/Deichor/issues "Deichor/issues"
+[linkedin]: https://www.linkedin.com/in/gurkankurt1 "Gürkan KURT LinkedIn"
+[oyunzor]: https://github.com/Oyunzor "Oyunzor"
