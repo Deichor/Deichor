@@ -2,20 +2,14 @@
 <h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+  <a href="https://github.com/Deichor/Deichor">
+    <img src="https://komarev.com/ghpvc/?username=deichor" alt="page views" />
   </a>
-  <a href="https://jacobcolvin.com">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
-  </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://www.youtube.com/@deichor2348">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube">
+  <a href="https://www.youtube.com/channel/UCkQs1NS-EvwBEjzgh6AVAZQ">
+    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCkQs1NS-EvwBEjzgh6AVAZQ?style=flat&logo=youtube">
   </a>
   <a href="https://github.com/Deichor?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Deichor?style=flat&logo=github">
   </a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
@@ -23,13 +17,12 @@
 </p>
 
 <a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+  <img src="https://raw.githubusercontent.com/Deichor/github-stats-transparent/output/generated/overview.svg" alt="deichor" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
+- :office: &nbsp;I'm currently working at **??**
+- :seedling: &nbsp;I’m currently working on my **[oyunzor]**
+- :speech_balloon: &nbsp;I like to talk about **Chess** and other **Software architectures and algorithms**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
@@ -43,9 +36,9 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/java.svg" width="48" height="48" alt="Java" />
       </a>
-      <br>Go
+      <br> Java
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -55,9 +48,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>Jsonnet
+      <br>C#
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -82,12 +75,6 @@
         <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
       </a>
       <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
     </td>
   </tr>
 </table>
@@ -122,8 +109,6 @@
 
 <!-- links -->
 
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
+[issues page]: https://github.com/MacroPower/MacroPower/issues "Deichor/issues"
+[linkedin]: https://www.linkedin.com/in/colvinjm "Gürkan KURT LinkedIn"
+[oyunzor]: https://github.com/MacroPower/homelab "Oyunzor"
